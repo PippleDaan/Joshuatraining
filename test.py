@@ -5,3 +5,6 @@ def plus(a,b):
 
 def divide(c,d):
     return c/d
+
+def minus(e,f):
+    return e - f
