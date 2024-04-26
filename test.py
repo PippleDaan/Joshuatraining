@@ -11,3 +11,6 @@ def minus(e,f):
 
 def multiply(g,h):
     return g * h
+
+def printa():
+    print("sjekladebol")
