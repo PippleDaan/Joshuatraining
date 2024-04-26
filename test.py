@@ -8,3 +8,6 @@ def divide(c,d):
 
 def minus(e,f):
     return e - f
+
+def multiply(g,h):
+    return g * h
